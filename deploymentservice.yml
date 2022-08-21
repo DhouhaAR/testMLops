@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: diabetes-model:latest
+        image: dhouha20/diabetes-model2:latest
         ports:
         - containerPort: 3000
         
